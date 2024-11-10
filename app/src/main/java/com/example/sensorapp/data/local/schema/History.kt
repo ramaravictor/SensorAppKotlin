@@ -1,4 +1,4 @@
-package com.example.sensorapp.data.export
+package com.example.sensorapp.data.schema
 
 import io.realm.kotlin.types.RealmObject
 import io.realm.kotlin.types.annotations.PrimaryKey

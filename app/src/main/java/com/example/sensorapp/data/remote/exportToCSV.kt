@@ -1,6 +1,6 @@
-package com.example.sensorapp.data.model
+package com.example.sensorapp.data.remote
 
-interface CSVExport {
+interface DataExporter {
     fun getCsvBodyRow(): String
     fun getCsvHeaderRow(): String
 }
